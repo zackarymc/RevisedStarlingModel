@@ -1,0 +1,242 @@
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('cd')" style="font-weight:bold">cd</a>
+Path must be a text scalar.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('optimizeRRIdriver', 'C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m', 78)" style="font-weight:bold">optimizeRRIdriver</a> (<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m',78,0)">line 78</a>)
+cd(datapath);%use data in desired data folder
+} 
+optimizeRRIdriver
+
+Ntrials =
+
+   500
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+{revStarOptSelectedRRIfunc is not found in the current folder or on the MATLAB path,
+but exists in:
+    C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to
+    Zack
+
+<a href = "matlab:internal.matlab.desktop.commandwindow.executeCommandForUser('cd ''C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack''')">Change the MATLAB current folder</a> or <a href = "matlab:internal.matlab.desktop.commandwindow.executeCommandForUser('addpath ''C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack''')">add its folder to the MATLAB path</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('optimizeRRIdriver', 'C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m', 117)" style="font-weight:bold">optimizeRRIdriver</a> (<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m',117,0)">line 117</a>)
+[Foutputs]=revStarOptSelectedRRIfunc(Finputs);% calls optmization process
+} 
+optimizeRRIdriver
+
+Ntrials =
+
+   500
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+{revStarOptSelectedRRIfunc is not found in the current folder or on the MATLAB path,
+but exists in:
+    C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to
+    Zack
+
+<a href = "matlab:internal.matlab.desktop.commandwindow.executeCommandForUser('cd ''C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack''')">Change the MATLAB current folder</a> or <a href = "matlab:internal.matlab.desktop.commandwindow.executeCommandForUser('addpath ''C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack''')">add its folder to the MATLAB path</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('optimizeRRIdriver', 'C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m', 117)" style="font-weight:bold">optimizeRRIdriver</a> (<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m',117,0)">line 117</a>)
+[Foutputs]=revStarOptSelectedRRIfunc(Finputs);% calls optmization process
+} 
+optimizeRRIdriver
+
+Ntrials =
+
+   500
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('cd')" style="font-weight:bold">cd</a>
+Path must be a text scalar.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('revStarOptSelectedRRIfunc', 'C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\revStarOptSelectedRRIfunc.m', 95)" style="font-weight:bold">revStarOptSelectedRRIfunc</a> (<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\revStarOptSelectedRRIfunc.m',95,0)">line 95</a>)
+    cd(selpath)
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('optimizeRRIdriver', 'C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m', 117)" style="font-weight:bold">optimizeRRIdriver</a> (<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m',117,0)">line 117</a>)
+[Foutputs]=revStarOptSelectedRRIfunc(Finputs);% calls optmization process
+} 
+optimizeRRIdriver
+
+Ntrials =
+
+   500
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+{revStarOptSelectedRRIfunc is not found in the current folder or on the MATLAB path, but
+exists in:
+    C:\Users\zcobu\OneDrive\Desktop\VA\Revised Starling Model\Scripts to send to
+    Zack\Scripts to send to Zack
+
+<a href = "matlab:internal.matlab.desktop.commandwindow.executeCommandForUser('cd ''C:\Users\zcobu\OneDrive\Desktop\VA\Revised Starling Model\Scripts to send to Zack\Scripts to send to Zack''')">Change the MATLAB current folder</a> or <a href = "matlab:internal.matlab.desktop.commandwindow.executeCommandForUser('addpath ''C:\Users\zcobu\OneDrive\Desktop\VA\Revised Starling Model\Scripts to send to Zack\Scripts to send to Zack''')">add its folder to the MATLAB path</a>.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('optimizeRRIdriver', 'C:\Users\zcobu\OneDrive\Desktop\VA\Revised Starling Model\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m', 117)" style="font-weight:bold">optimizeRRIdriver</a> (<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Revised Starling Model\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m',117,0)">line 117</a>)
+[Foutputs]=revStarOptSelectedRRIfunc(Finputs);% calls optmization process
+} 
+plot(RawHct)
+optimizeRRIdriver
+
+Ntrials =
+
+   500
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
+
+specialnote =
+
+    'Test Zack scripts and data'
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+<a href="matlab: opentoline('C:\Users\zcobu\OneDrive\Desktop\VA\Revised Starling Model\Scripts to send to Zack\Scripts to send to Zack\optimizeRRIdriver.m',80,1)">80  </a>load(strcat(datapath,datafilename));% loads in t, hct(t), Juf(t) and Jinf(t)
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+
+datafilename =
+
+    'zdv250960session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+

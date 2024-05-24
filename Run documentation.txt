@@ -1,0 +1,17 @@
+
+specialnote =
+
+    'any special info about the run goes here'
+
+
+datafilename =
+
+    'zdv2501058session1.mat'
+
+
+thetaNames =
+
+  1×3 <a href="matlab:helpPopup('cell')" style="font-weight:bold">cell</a> array
+
+    {'XJv'}    {'XJs'}    {'Pp'}
+
